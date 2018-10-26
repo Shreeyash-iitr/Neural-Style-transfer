@@ -4,3 +4,6 @@ Separate loss function according to the formulae given in ![original paper](http
 
 ## Content Image
 <img src="content.jpg" height="400" width="400">
+
+## Style Image
+<img src="style.jpg" height="400" width="400">
