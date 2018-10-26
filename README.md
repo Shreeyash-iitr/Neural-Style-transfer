@@ -7,3 +7,6 @@ Separate loss function according to the formulae given in ![original paper](http
 
 ## Style Image
 <img src="style.jpg" height="400" width="400">
+
+## Generated Image after 10 epochs
+<img src="10_epoch.jpg" height="400" width="400">
