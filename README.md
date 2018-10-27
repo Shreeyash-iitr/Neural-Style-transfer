@@ -10,3 +10,7 @@ Separate loss function according to the formulae given in ![original paper](http
 
 ## Generated Image after 10 epochs
 <img src="10_epochs.png" height="400" width="400">
+
+
+## Generated Image after 100 epochs
+<img src="100_epochs.png" height="400" width="400">
