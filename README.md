@@ -12,5 +12,5 @@ Separate loss function according to the formulae given in ![original paper](http
 <img src="10_epochs.png" height="400" width="400">
 
 
-## Generated Image after 100 epochs
+## Generated Image after 50 epochs
 <img src="100_epochs.png" height="400" width="400">
